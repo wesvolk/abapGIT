@@ -5,5 +5,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZWVOLKMAN_TEST_GIT.
 
-WRITE 'Hello ABAPGIT Change'
-
+WRITE 'Hello ABAPGIT Change'.
